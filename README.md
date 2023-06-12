@@ -13,8 +13,21 @@ Please change the database path and data partition file in the corresponding cod
 ### Training
 `pyhon train_MCF`
 ### Evaluation
-`pyhon train_LA_MCF`
+`pyhon test_LA_MCF.py`
 
+## Citation
+If you find this project useful, please consider citing:
+
+```bibtex
+@InProceedings{MCF,
+    author    = {Wang, Yongchao and Xiao, Bin and Bi, Xiuli and Li, Weisheng and Gao, Xinbo},
+    title     = {MCF: Mutual Correction Framework for Semi-Supervised Medical Image Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {15651-15660}
+}
+```
 ## Acknowledgement
 
 We build the project based on UA-MT,SASSNet,DTC.

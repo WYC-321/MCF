@@ -10,6 +10,9 @@
 
 ## Getting Started
 Please change the database path and data partition file in the corresponding code.
+### Dataset
+[LA data](https://drive.google.com/drive/folders/1_LObmdkxeERWZrAzXDOhOJ0ikNEm0l_l?usp=sharing)  
+[Pancreas data](https://drive.google.com/drive/folders/1kQX8z34kF62ZF_1-DqFpIosB4zDThvPz?usp=sharing)
 ### Training
 `pyhon train_MCF`
 ### Evaluation
